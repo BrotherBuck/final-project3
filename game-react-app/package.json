@@ -1,0 +1,52 @@
+{
+  "name": "game-react-app",
+  "version": "1.0.0",
+  "description": "Video Game App",
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrotherBuck/final-project3.git"
+  },
+  "keywords": [
+    "Video",
+    "Game",
+    "App",
+    "Nimzy",
+    "Antzy"
+  ],
+  "author": "John Thomas Dispennette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrotherBuck/final-project3/issues"
+  },
+  "homepage": "https://github.com/BrotherBuck/final-project3#readme",
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "chai": "^3.5.0",
+    "dom": "0.0.3",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "mocha": "^3.0.2",
+    "mongojs": "^2.4.0",
+    "node": "0.0.0",
+    "phaser": "^2.6.2",
+    "react": "^15.3.1",
+    "react-phaser": "^0.1.6",
+    "react-router": "^2.8.0",
+    "script": "^0.1.4",
+    "sinon": "^1.17.5",
+    "sinon-chai": "^2.8.0",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "webpack-dev-middleware": "^1.7.0"
+  }
+}
